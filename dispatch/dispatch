@@ -1,0 +1,4 @@
+%% -*- mode: erlang -*-
+[
+ { admin_good_relations, ["admin", "goodrelations"], controller_template, [ {template, "admin_goodrelations.tpl"} ] }
+].

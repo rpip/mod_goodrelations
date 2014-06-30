@@ -1,0 +1,10 @@
+;; -*- mode: org -*-
+
+*  TODOs
+** Admin edit form blocks
+-  Product admin block
+-  Product view block
+** Module admin page
+-  Store snippet
+-  Sompany snippet
+** Dispatch rules
